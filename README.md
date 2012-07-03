@@ -1,4 +1,4 @@
-cookbooks
+Cookbooks
 =========
 
 Collection of Chef Cookbooks
