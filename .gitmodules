@@ -13,3 +13,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = git://github.com/cjoudrey/mysql.git
+[submodule "percona"]
+	path = percona
+	url = git://github.com/phlipper/chef-percona.git
