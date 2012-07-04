@@ -1,0 +1,15 @@
+[submodule "php"]
+	path = php
+	url = git://github.com/opscode-cookbooks/php.git
+[submodule "apt"]
+	path = apt
+	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "apache2"]
+	path = apache2
+	url = git://github.com/opscode-cookbooks/apache2.git
+[submodule "openssl"]
+	path = openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "mysql"]
+	path = mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
