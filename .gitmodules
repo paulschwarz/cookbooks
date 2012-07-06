@@ -13,3 +13,6 @@
 [submodule "percona"]
 	path = percona
 	url = git://github.com/phlipper/chef-percona.git
+[submodule "apt"]
+	path = apt
+	url = git://github.com/paulsschwarz/apt.git
