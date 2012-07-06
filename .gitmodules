@@ -16,3 +16,6 @@
 [submodule "apt"]
 	path = apt
 	url = git://github.com/paulsschwarz/apt.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
