@@ -1,9 +1,6 @@
 [submodule "php"]
 	path = php
 	url = git://github.com/opscode-cookbooks/php.git
-[submodule "apt"]
-	path = apt
-	url = git://github.com/opscode-cookbooks/apt.git
 [submodule "apache2"]
 	path = apache2
 	url = git://github.com/opscode-cookbooks/apache2.git
@@ -16,3 +13,6 @@
 [submodule "percona"]
 	path = percona
 	url = git://github.com/phlipper/chef-percona.git
+[submodule "apt"]
+	path = apt
+	url = git://github.com/hectcastro/apt.git
